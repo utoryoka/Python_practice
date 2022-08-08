@@ -12,3 +12,5 @@ for i in range(50):
     plt.title(digits.target[i])
     plt.imshow(digits.images[i], cmap="Greys")
 plt.show()
+
+
